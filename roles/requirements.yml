@@ -1,0 +1,3 @@
+- src: https://github.com/tower-multicloud-demo/role-ec2.git
+  version: master
+  name: role-ec2
